@@ -3,7 +3,7 @@ package Basico;
 
 import java.util.Scanner;
 
-public class HackerRank3 {
+public class JavaIfElse {
     private static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         int N = scanner.nextInt();

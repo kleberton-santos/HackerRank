@@ -2,7 +2,7 @@ package Basico;
 
 import java.util.Scanner;
 
-public class HackerRank4 {
+public class JavaStdinandStdoutII {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
