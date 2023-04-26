@@ -1,4 +1,4 @@
-package Basico;
+package HackerRank;
 
 public class WelcometoJava {
     public static void main(String[] args) {

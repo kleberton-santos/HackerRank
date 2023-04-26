@@ -1,11 +1,8 @@
-package Basico;
+package HackerRank;
 
 import java.util.Scanner;
-import java.io.*;
 import java.util.*;
 import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class JavaCurrencyFormatter {
     public static void main(String[] args) {
@@ -33,5 +30,5 @@ public class JavaCurrencyFormatter {
         System.out.println("China: " + china);
         System.out.println("France: " + france);
     }
-    }
+
 }

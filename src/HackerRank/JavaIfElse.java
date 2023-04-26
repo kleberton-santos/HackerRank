@@ -1,4 +1,4 @@
-package Basico;
+package HackerRank;
 
 
 import java.util.Scanner;
